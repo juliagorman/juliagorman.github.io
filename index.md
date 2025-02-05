@@ -4,4 +4,4 @@ title: about
 # permalink: /about/
 ---
 
-Julia Gorman
+Hi, I'm Julia
