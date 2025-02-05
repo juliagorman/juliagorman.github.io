@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: jcg
+title: Julia C. Gorman
 #email: jugorman at ucsd dot edu
 description: >- # this means to ignore newlines until "baseurl:"
    email: jugorman at ucsd dot edu
@@ -38,7 +38,7 @@ header_pages:
   - research.md
   - blog.md
   - teaching.md
-  - cv.md
+  - CV.md
 
 
 social_links:
