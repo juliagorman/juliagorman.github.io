@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
-This is my empty website
+Julia Gorman
