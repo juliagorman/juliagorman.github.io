@@ -1,8 +1,10 @@
 ---
 layout: default
 title: CV
-permalink: /cv/
 order: 5
+permalink: /cv/
+show_excerpts: true
+
 ---
 
 # cv/resume

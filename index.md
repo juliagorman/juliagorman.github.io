@@ -2,6 +2,7 @@
 layout: page
 title: about
 order: 1
+show_excerpts: true
 # permalink: /about/
 ---
 
