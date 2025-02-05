@@ -15,3 +15,5 @@ I am a fifth year PhD student stuyding neural population dynamics underlying voc
 I did my Bachelors in Mathematics and Biology at Seattle University. There I swam Division 1 and also worked for Kilowatts for Kilowatts for Humanity, a chapter of Engineers Without Borders. I am from Bend, Oregon and have all the typical hobbies of someone from a small mountain town. Here in San Diego, I also do pottery, freediving, and recently got into ulra-running. 
 
 This is a place to hold all the relevant links to my research, science communication work, and teaching/pedagogical musings. 
+
+<img src="/assets/website.jpg" alt="My Image Description" width="600">
