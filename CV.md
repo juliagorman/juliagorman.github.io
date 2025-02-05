@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CV/Resume
+title: CV
 permalink: /CV/
 ---
 
