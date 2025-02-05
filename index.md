@@ -16,4 +16,4 @@ I did my Bachelors in Mathematics and Biology at Seattle University. There I swa
 
 This is a place to hold all the relevant links to my research, science communication work, and teaching/pedagogical musings. 
 
-<img src="/assets/website.jpg" alt="My Image Description" width="600">
+![Me](/assets/website.jpg)
