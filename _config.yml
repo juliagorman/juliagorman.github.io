@@ -37,7 +37,7 @@ nav:
     url: "/"
   - title: "research"
     url: "/research/"
-  - title: "CV/Resume"
+  - title: "CV"
     url: "/cv/"
   - title: "blog posts"
     url: "/blog/"
