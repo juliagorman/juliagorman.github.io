@@ -21,11 +21,11 @@
 title: Julia C. Gorman
 email: jugorman at ucsd dot edu
 description: >- # this means to ignore newlines until "baseurl:"
-  What should be an awesome description of my website
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://juliagorman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: JC_Gorman
-github_username:  juliagorman
+# github_username:  juliagorman
 
 # Build settings
 theme: minima
