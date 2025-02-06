@@ -14,7 +14,10 @@ I did my Bachelors in Mathematics and Biology at Seattle University in Washingto
 
 This is a place to hold all the relevant links to my research, science communication work, and musings. 
 
-<img src="https://juliagorman.github.io/assets/website.jpg" alt="Me" width="800">
+<div style="text-align: center;">
+  <img src="/assets/website.jpg" alt="me" width="600">
+</div>
+
 
 
 
