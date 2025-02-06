@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Julia C. Gorman
-author: email~ jugorman at ucsd dot edu
+author: email ~ jugorman at ucsd dot edu
 #email: jugorman at ucsd dot edu
 description: >- # this means to ignore newlines until "baseurl:"
    

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: research
-order: 2
 permalink: /research/
 
 ---
@@ -10,9 +9,11 @@ permalink: /research/
 
 [Google Scholar](https://scholar.google.com/citations?user=SWAiwhQAAAAJ&hl=en)
 
-My research centers in the nebulous cloud of computational and systems neuroscience with a deep reverence for neuroethology- linking naturalistic behaviors neural signaling. Within this large span, I am interested in sensorimotor integration, specfically the network dynamics of populations of neurons. 
+My research lies at the intersection of computational and systems neuroscience, with a strong foundation in neuroethology- linking naturalistic behaviors to neural signaling. Within this expansive field, I am particularly interested in sensorimotor integration and the network dynamics of neuronal populations.
 
-As a recipient of the NIH F99/K00 award, I hope to use the funding that provides to continue my research as a postdoctoral fellow. I want to move to the theoretical neuroscience space, specifically linking biophysical connectivity and emergent dynamics. 
+As a recipient of the NIH F99/K00 Predoctoral to Postdoctoral Transition Award, I aim to leverage this funding to further my research as a postdoctoral fellow. My goal is to transition into the theoretical neuroscience space, specifically focusing on linking biophysical connectivity with emergent neural dynamics.
 
-My research experiences have covered a wide breadth from mathematics (both Number Theory and Numerical Analysis) to experimental neuroscience. My first experiences working in a laboratory as a NIH BP ENDURE fellow at Washington University in St. Louis forever changed my perspective on how I wanted to do science; working side-by-side with experimentalists to bridge computational work with experiments. Additionally, I have a strong passion for non-mainstream model organisms. I hope to keep my list of non-rodent species I work with ongoing. See CV for more details 
+My research expereince spans a diverse range of disciplines, from beginning my journey doing research in Numerical Analysis to Number Theory. My formative experience as an NIH BP ENDURE fellow at Washington University in St. Louis fundamentally shaped my approach to science by giving me my first oppurtunity to work in an experimental neuroscience laboratory. It instilled in me a passion for bridging computational models with experimental work through close collaboration with experimentalists.
+
+
 

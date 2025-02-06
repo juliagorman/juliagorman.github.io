@@ -1,9 +1,10 @@
 ---
 layout: default
 title: teaching
-order: 4
 permalink: /teaching/
 
 ---
 # teaching
-My passion for pedagogy started well-before graduate school. Education when performed correctly is liberating. I have experience as not only a teaching assitant but also an Associate Instructor here at UC San Diego. I have been awarded the Summer Greaduate Teaching Scholars award and fellowship for my efforts. I hope to continue to expand the courses I have taught. 
+My passion for pedagogy predates my time in graduate school, rooted in the belief that education, when approached thoughtfully, has the power to liberate and inspire. At UC San Diego, I have served as both a Teaching Assistant and an Associate Instructor, honing my teaching skills and fostering meaningful learning experiences. My dedication to education was recognized with the Summer Graduate Teaching Scholars award and fellowship, which further motivated me to expand the range of courses I teach. I look forward to continuing to develop innovative and inclusive teaching practices throughout my career
+
+## courses taught 
