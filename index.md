@@ -15,7 +15,7 @@ I did my Bachelors in Mathematics and Biology at Seattle University in Washingto
 This is a place to hold all the relevant links to my research, science communication work, and musings. 
 
 <div style="text-align: center;">
-  <img src="/assets/website.jpg" alt="me" width="600">
+  <img src="/assets/images/website.jpg" alt="me" width="600">
 </div>
 
 
