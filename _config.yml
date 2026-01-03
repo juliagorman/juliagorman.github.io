@@ -35,7 +35,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - index.md        # About page
+ # - index.md        # About page
   - research.md
   - blog.md
   - teaching.md
