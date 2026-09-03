@@ -7,7 +7,7 @@ permalink: /teaching/
 
 ## approach
 
-My interest in pedagogy predates graduate school. At UC San Diego I have served as both a Teaching Assistant and an Associate Instructor, and my work in the classroom was recognized with the Summer Graduate Teaching Scholars award and fellowship. I care about active learning, structured discussion, and giving students scaffolded practice with scientific writing and argumentation.
+At UC San Diego I have served as both a Teaching Assistant and an Associate Instructor, and my work in the classroom was recognized with the Summer Graduate Teaching Scholars award and fellowship. I care about active learning, structured discussion, and giving students real practice at scientific writing and argument.
 
 ## courses taught
 
