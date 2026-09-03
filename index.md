@@ -13,7 +13,7 @@ The brain does not just react to the world. It anticipates it. My work asks what
 
 ## outreach and teaching
 
-I have spent close to a decade building pathways into science for people who were not handed one. At UCSD I sit on the board of Colors of the Brain, an undergraduate mentorship program that partners with the Kavli Institute for Brain and Mind on a summer research program for students from historically marginalized backgrounds. I have also taught and TA'd for STARTneuro, an NIH BP ENDURE program that funds research experiences for incoming transfer students. I went through a BP ENDURE program myself, at Washington University in St. Louis.
+I have spent close to a decade helping build pathways into science. At UCSD I sit on the board of Colors of the Brain, an undergraduate mentorship program that partners with the Kavli Institute for Brain and Mind on a summer research program for students from historically marginalized backgrounds. I have also taught and TA'd for STARTneuro, an NIH BP ENDURE program that funds research experiences for incoming transfer students. I went through a BP ENDURE program myself, at Washington University in St. Louis.
 
 In summer 2025 I built a course from scratch, Brain, Behavior, and Evolution, and served as instructor of record for a class of upper-division students. I paired textbook chapters with the primary papers behind them, so students could see not only what we know about a behavior but how that knowledge was actually gained.
 
