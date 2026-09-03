@@ -244,4 +244,13 @@ a:hover { color: var(--accent-deep); text-decoration: underline; text-underline-
   .site-header .wrap { flex-direction: column; align-items: flex-start; gap: 10px; }
   .site-nav { gap: 18px; }
   .hero-img { aspect-ratio: 1.6; border-radius: 4px; }
-  
+  .portrait { width: 104px; height: 104px; top: -56px; }
+  .masthead { padding-top: 62px; margin-bottom: 32px; }
+  .masthead h1 { font-size: 36px; }
+  .tagline { font-size: 19px; }
+  .page-head h1 { font-size: 32px; }
+  .contact-list { grid-template-columns: 1fr; }
+  .cv-frame { height: 640px; }
+  .site-footer .wrap { flex-direction: column; }
+  .footer-links a { margin-left: 0; margin-right: 18px; }
+}
