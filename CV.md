@@ -1,13 +1,11 @@
 ---
-layout: default
-title: CV
+layout: page
+title: cv
+subtitle: Last updated 2 January 2026.
 permalink: /cv/
+wide: true
 ---
 
-# cv/resume
-(last updated: 2 jan 2026)
+<a class="more" href="{{ '/assets/files/CV_2026.pdf' | relative_url }}">Download the PDF</a>
 
-<iframe src="/assets/files/CV_2026.pdf" style="width:100%; height:800px;" frameborder="0"></iframe>
-
-
-
+<iframe class="cv-frame" src="{{ '/assets/files/CV_2026.pdf' | relative_url }}" title="CV"></iframe>

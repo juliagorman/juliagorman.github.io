@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class="hero">
+  <div class="wrap">
+    <img class="hero-img" src="{{ '/assets/images/hero.jpg' | relative_url }}" alt="">
+  </div>
+</div>
+
+<main class="wrap home">
+  <header class="masthead">
+    <h1>{{ site.title }}</h1>
+    <p class="tagline">{{ page.tagline }}</p>
+    <p class="affil">{{ page.affiliation }}</p>
+  </header>
+
+  <div class="prose sections">
+    {{ content }}
+  </div>
+</main>

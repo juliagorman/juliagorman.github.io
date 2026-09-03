@@ -1,11 +1,10 @@
 ---
-layout: default
-title: blog posts
+layout: page
+title: writing
+subtitle: Sometimes I write about things, mostly in English, some of it in Spanish.
 permalink: /blog/
 ---
 
-# science communication and blog posts
-sometimes i write about things, mostly in english, some of it is in spanish too. 
-
 ## sci-comm
-[posts on NeuWrite SD](https://neuwritesd.org/author/gormanjc/)
+
+<a class="more" href="https://neuwritesd.org/author/gormanjc/">Posts on NeuWrite SD</a>

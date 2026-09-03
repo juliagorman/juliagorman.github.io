@@ -1,21 +1,37 @@
 ---
-layout: page
+layout: home
 title: ""
-# permalink: /about/
+tagline: Neural population dynamics in birds that listen and sing.
+affiliation: PhD candidate in the <a href="http://gentnerlab.ucsd.edu">Gentner Lab</a> at UC San Diego. Joining the <a href="https://www.bingbrunton.com">Brunton Lab</a> at the University of Washington as a postdoctoral fellow in April 2027.
 ---
 
-I am a sixth year PhD student stuyding neural population dynamics underlying vocal communication behaviors in the Gentner Lab at UC San Diego. My thesis works combines large-scale electrophyiology, dynamical systems modeling, and naturalistic behavioral paradigms to understand sensorimotor integration. 
+## research
 
-I have nearly a decade of experience creating equitable oppurtunities in STEM and scientific outreach. Currently, I am a board member of UCSD Colors of the Brain which is an undergraduate mentorship program that has partnered with the Kavli Insitute for Brain and Mind to create a unique summer program aimed at recruiting historically margianlized students. I also have been invovled with STARTneuro, a NIH BP ENDURE program that gives research experience and funding to incoming transfer students as a teacing assistant and instructor. Other past work I have done can be found on my CV. 
+I study how populations of neurons in the songbird brain prepare for what comes next, both when a bird listens and when it sings. Vocal communication ties perception and action together in an unusually clean way. The sounds a bird has to interpret while listening are the same sounds it later produces while singing, which makes it possible to follow sensorimotor behavior from end to end at the level of population dynamics.
 
-I did my Bachelors in Mathematics and Biology at Seattle University in Washington State. I am from Bend, Oregon and have all the typical hobbies of someone from a small mountain town. Here in San Diego, I also do pottery, freediving, and can be frequently found trail running. 
+My thesis combines large-scale electrophysiology, dynamical systems modeling, and naturalistic behavior. I defend in December 2026. My work is supported by an NIH F99/K00 Predoctoral to Postdoctoral Transition Award, which carries into the postdoc, where I want to build models that connect circuit architecture to the flexible dynamics of large neural populations.
 
-This is a place to hold all the relevant links to my research, science communication work, and musings. 
+<a class="more" href="{{ '/research/' | relative_url }}">More on my research</a>
 
-<div style="text-align: center;">
-  <img src="{{ '/assets/images/website_pic.png' | relative_url }}" alt="me" width="600">
-</div>
+## outreach and teaching
 
+I have spent close to a decade building pathways into science for people who were not handed one. At UCSD I sit on the board of Colors of the Brain, an undergraduate mentorship program that partners with the Kavli Institute for Brain and Mind on a summer research program for students from historically marginalized backgrounds. I have also taught and TA'd for STARTneuro, an NIH BP ENDURE program that funds research experiences for incoming transfer students. I went through a BP ENDURE program myself, at Washington University in St. Louis, and it is where I first worked in a neuroscience lab.
 
+In summer 2025 I was the instructor of record for Brain, Behavior, and Evolution.
 
+<a class="more" href="{{ '/teaching/' | relative_url }}">Courses and syllabi</a>
 
+## elsewhere
+
+I grew up in Bend, Oregon and did my bachelor's in mathematics and biology at Seattle University. In San Diego I throw pots, freedive, and spend most weekends on trails with a lot of vertical in them. Sometimes I write, mostly in English and occasionally in Spanish.
+
+<a class="more" href="{{ '/blog/' | relative_url }}">Writing and sci-comm</a>
+
+## contact
+
+<ul class="contact-list">
+  <li><span>email</span> <a href="mailto:jugorman@ucsd.edu">jugorman@ucsd.edu</a></li>
+  <li><span>scholar</span> <a href="{{ site.scholar_url }}">Google Scholar</a></li>
+  <li><span>bluesky</span> <a href="https://bsky.app/profile/{{ site.bluesky_username }}.bsky.social">@{{ site.bluesky_username }}</a></li>
+  <li><span>x</span> <a href="https://x.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a></li>
+</ul>
