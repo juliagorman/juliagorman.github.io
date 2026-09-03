@@ -1,15 +1,15 @@
 ---
 ---
-/* Warm editorial theme for juliagorman.github.io */
+/* Fjord editorial theme for juliagorman.github.io */
 
 :root {
-  --bg: #faf6ef;
-  --bg-deep: #f3ece0;
-  --ink: #2b2521;
-  --ink-soft: #6b625a;
-  --rule: #e3d9c8;
-  --accent: #b3573b;
-  --accent-deep: #8f4229;
+  --bg: #f3f5f6;
+  --bg-deep: #e7ebee;
+  --ink: #22272c;
+  --ink-soft: #5e6870;
+  --rule: #d6dde2;
+  --accent: #2f6b8f;
+  --accent-deep: #22506c;
   --serif: "Fraunces", "Iowan Old Style", Georgia, serif;
   --sans: "Inter", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
   --wrap: 860px;
@@ -77,7 +77,7 @@ a:hover { color: var(--accent-deep); text-decoration: underline; text-underline-
   object-fit: cover;
   object-position: 50% 50%;
   border-radius: 6px;
-  box-shadow: 0 1px 0 rgba(0,0,0,0.04), 0 18px 40px -24px rgba(60,40,20,0.35);
+  box-shadow: 0 1px 0 rgba(0,0,0,0.04), 0 18px 40px -24px rgba(30,40,50,0.35);
 }
 
 /* ---------- masthead ---------- */
@@ -96,7 +96,7 @@ a:hover { color: var(--accent-deep); text-decoration: underline; text-underline-
   border-radius: 50%;
   object-fit: cover;
   border: 5px solid var(--bg);
-  box-shadow: 0 8px 24px -10px rgba(60,40,20,0.45);
+  box-shadow: 0 8px 24px -10px rgba(30,40,50,0.45);
 }
 .masthead h1 {
   font-family: var(--serif);
