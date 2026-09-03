@@ -1,7 +1,7 @@
 ---
 layout: home
 title: ""
-tagline: Neural population dynamics in birds that listen and sing.
+tagline: Anticipation and control in neural population dynamics.
 affiliation: PhD candidate in the <a href="http://gentnerlab.ucsd.edu">Gentner Lab</a> at UC San Diego. Joining the <a href="https://www.bingbrunton.com">Brunton Lab</a> at the University of Washington as a postdoctoral fellow in April 2027.
 ---
 

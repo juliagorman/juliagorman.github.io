@@ -75,7 +75,7 @@ a:hover { color: var(--accent-deep); text-decoration: underline; text-underline-
   width: 100%;
   aspect-ratio: 5 / 2;
   object-fit: cover;
-  object-position: 50% 40%;
+  object-position: 50% 50%;
   border-radius: 6px;
   box-shadow: 0 1px 0 rgba(0,0,0,0.04), 0 18px 40px -24px rgba(60,40,20,0.35);
 }
@@ -84,8 +84,19 @@ a:hover { color: var(--accent-deep); text-decoration: underline; text-underline-
 
 .masthead {
   position: relative;
-  padding-top: 44px;
+  padding-top: 84px;
   margin-bottom: 42px;
+}
+.portrait {
+  position: absolute;
+  top: -68px;
+  left: 0;
+  width: 132px;
+  height: 132px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 5px solid var(--bg);
+  box-shadow: 0 8px 24px -10px rgba(60,40,20,0.45);
 }
 .masthead h1 {
   font-family: var(--serif);
