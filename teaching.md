@@ -17,11 +17,8 @@ permalink: /teaching/
       “Engagement was better than any undergraduate class I’ve attended at UCSD.”
       <cite>Peer observer, Graduate Peer Review of Instruction, 2025</cite>
     </blockquote>
-    <p class="note">Three-hour sessions. No lecture block over 12 minutes. About three quarters of the class speaking.</p>
-    <p class="links"><a href="{{ '/assets/files/BIPN_PSYC189_Evaluations_Summer2025.pdf' | relative_url }}">student evaluations</a> · 25 of 34 responded</p>
-    <!-- SYLLABUS: put PSYCBIPN189_Syllabus.pdf in assets/files/, then uncomment.
-    <p class="links"><a href="{{ '/assets/files/PSYCBIPN189_Syllabus.pdf' | relative_url }}">syllabus</a></p>
-    -->
+    {% assign syllabus = site.static_files | where: "path", "/assets/files/BIPN_PSYC189_Syllabus.pdf" | first %}
+    <p class="links">{% if syllabus %}<a href="{{ '/assets/files/BIPN_PSYC189_Syllabus.pdf' | relative_url }}">syllabus</a> · {% endif %}<a href="{{ '/assets/files/BIPN_PSYC189_Evaluations_Summer2025.pdf' | relative_url }}">student evaluations</a> · 25 of 34 responded</p>
   </div>
 </div>
 
