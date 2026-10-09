@@ -10,6 +10,9 @@
   --rule: #d6dde2;
   --accent: #2f6b8f;
   --accent-deep: #22506c;
+  --fig-a: #2e6e63;
+  --fig-b: #9a6a1a;
+  --panel: #fafbfc;
   --serif: "Newsreader", "Iowan Old Style", Georgia, serif;
   --sans: "Inter", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
   --wrap: 860px;
@@ -363,6 +366,74 @@ a:hover { color: var(--accent-deep); text-decoration: underline; text-underline-
 }
 .prose .feature .links { margin-bottom: 0; }
 
+/* ---------- research page ---------- */
+
+.statement {
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: 27px;
+  line-height: 1.36;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+  margin: 0 0 0.9em;
+}
+.breakout { width: calc(min(var(--wrap), 100vw) - 48px); max-width: none; }
+.fig-panel-wide {
+  margin: 1.6em 0 0.7em;
+  padding: 10px 14px;
+  background: var(--panel);
+  border-radius: 6px;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.04), 0 18px 40px -28px rgba(30,40,50,0.35);
+}
+.prose .caption { font-size: 14.5px; color: var(--ink-soft); margin-bottom: 0; }
+
+.project {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 44px;
+  align-items: start;
+  margin: 0 0 40px;
+}
+.project.flip .project-fig { order: 2; }
+.project-fig {
+  padding: 12px;
+  background: var(--panel);
+  border-radius: 6px;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.04), 0 18px 40px -28px rgba(30,40,50,0.35);
+}
+.prose .kicker {
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  margin: 0 0 0.5em;
+}
+.prose .project h3 { margin: 0 0 0.45em; font-size: 26px; line-height: 1.2; }
+.prose .project p { font-size: 16px; margin: 0 0 0.8em; }
+.prose .project .links { font-size: 14px; margin-bottom: 0; }
+
+/* diagrams */
+.fig { display: block; width: 100%; height: auto; }
+.fig text { font-family: var(--sans); }
+.fig-label { font-size: 12px; fill: var(--ink-soft); letter-spacing: 0.02em; }
+.fig-strong { font-size: 13.5px; font-weight: 500; fill: var(--ink); }
+.fig-word { font-family: var(--serif) !important; font-style: italic; font-size: 17px; }
+.fig-line { fill: none; stroke-width: 2.25; stroke-linecap: round; }
+.fig-axis { stroke: var(--rule); stroke-width: 1.5; stroke-linecap: round; }
+.fig-node { fill: var(--panel); stroke-width: 1.75; }
+.fig-brain { fill: none; stroke: #8f9aa3; stroke-width: 1.75; stroke-linejoin: round; }
+.fig-fold { stroke-width: 1.25; stroke-linecap: round; }
+.fig-target { fill: var(--fig-a); fill-opacity: 0.1; stroke: var(--fig-a); stroke-opacity: 0.35; stroke-dasharray: 3 4; }
+.fig-other { fill: #9aa5ad; fill-opacity: 0.12; stroke: #9aa5ad; stroke-opacity: 0.5; stroke-dasharray: 3 4; }
+.fig-boundary { stroke: #9aa5ad; stroke-width: 1.25; stroke-dasharray: 5 5; }
+.f-soft-dot { fill: var(--panel); stroke: #9aa5ad; stroke-width: 1.5; }
+.f-a-dot { fill: var(--panel); stroke: var(--fig-a); stroke-width: 1.5; }
+.prose .project .fig-note { font-size: 13px; line-height: 1.45; color: var(--ink-soft); margin: 8px 6px 2px; }
+.s-a { stroke: var(--fig-a); } .s-b { stroke: var(--fig-b); } .s-soft { stroke: #9aa5ad; }
+.f-a { fill: var(--fig-a); } .f-b { fill: var(--fig-b); } .f-soft { fill: #9aa5ad; } .f-ink { fill: var(--ink); } .f-rule { fill: var(--rule); }
+.t-a { fill: var(--fig-a); } .t-b { fill: var(--fig-b); }
+
 /* ---------- footer ---------- */
 
 .site-footer {
@@ -400,6 +471,12 @@ a:hover { color: var(--accent-deep); text-decoration: underline; text-underline-
   .site-footer .wrap { flex-direction: column; }
   .footer-links a { margin-left: 0; margin-right: 18px; }
   .entry { grid-template-columns: 1fr; }
+  .statement { font-size: 22px; }
+  .project { grid-template-columns: 1fr; gap: 16px; margin-bottom: 36px; }
+  .project.flip .project-fig { order: 0; }
+  .prose .project h3 { font-size: 23px; }
+  .fig-panel-wide { padding: 6px; overflow-x: auto; }
+  .fig-panel-wide .fig { min-width: 500px; }
   .entry .when { padding-top: 0; }
   .feature { padding: 22px 18px 16px; }
   .stats { gap: 10px; }

@@ -1,0 +1,21 @@
+<svg class="fig" viewBox="0 0 380 270" role="img" aria-label="Schematic. Each line is population activity on one trial, moving through a space where two sound categories separate. A trial that starts from an expected position reaches the correct category sooner.">
+  <line x1="36" y1="238" x2="36" y2="26" class="fig-axis"/><line x1="36" y1="238" x2="352" y2="238" class="fig-axis"/>
+  <text x="352" y="256" text-anchor="end" class="fig-label">neural dimension 1</text>
+  <text x="46" y="24" class="fig-label">neural dimension 2</text>
+  <circle cx="296" cy="78" r="40" class="fig-target"/>
+  <text x="296" y="74" text-anchor="middle" class="fig-strong">category A</text>
+  <text x="296" y="90" text-anchor="middle" class="fig-label">correct</text>
+  <circle cx="296" cy="192" r="40" class="fig-other"/>
+  <text x="296" y="196" text-anchor="middle" class="fig-strong">category B</text>
+  <line x1="120" y1="137" x2="352" y2="137" class="fig-boundary"/>
+  <text x="120" y="130" class="fig-label">decision boundary</text>
+  <path d="M70,152 C 108,172 146,204 190,178 C 234,152 236,112 264,96" class="fig-line s-soft"/>
+  <circle cx="98.6" cy="168.2" r="2.6" class="f-soft-dot"/><circle cx="127.8" cy="182.2" r="2.6" class="f-soft-dot"/><circle cx="158.0" cy="187.7" r="2.6" class="f-soft-dot"/><circle cx="190.0" cy="178.0" r="2.6" class="f-soft-dot"/><circle cx="216.2" cy="156.5" r="2.6" class="f-soft-dot"/><circle cx="233.0" cy="133.2" r="2.6" class="f-soft-dot"/><circle cx="246.8" cy="111.9" r="2.6" class="f-soft-dot"/>
+  <circle cx="70" cy="152" r="6" class="f-soft"/>
+  <text x="46" y="200" class="fig-label">not expected</text>
+  <path d="M98,112 C 142,96 202,94 258,84" class="fig-line s-a"/>
+  <circle cx="133.7" cy="102.3" r="2.6" class="f-a-dot"/><circle cx="173.5" cy="95.8" r="2.6" class="f-a-dot"/><circle cx="215.6" cy="90.3" r="2.6" class="f-a-dot"/>
+  <circle cx="98" cy="112" r="6" class="f-a"/>
+  <text x="94" y="94" text-anchor="middle" class="fig-word t-a">expected</text>
+  <text x="46" y="226" class="fig-label">dots mark equal steps in time</text>
+</svg>

@@ -5,13 +5,51 @@ subtitle: Sensorimotor integration and the geometry of neural population dynamic
 permalink: /research/
 ---
 
-## what I work on
+I work at the intersection of computational and systems neuroscience, motivated by neuroethology and the challenge of linking real-world behavior to neural activity.
 
-I work at the intersection of computational and systems neuroscience, motivated by neuroethology and the challenge of linking real-world behavior to neural activity. Within that broader goal I am particularly interested in sensorimotor integration and the geometry of neural population dynamics.
+<figure class="fig-panel-wide">
+{% include fig-loop.svg -%}
+</figure>
+<p class="caption">The sounds songbirds have to interpret while listening are the same sounds they later produce and sequence during singing. One behavior gives two views of the same problem.</p>
 
-In the Gentner Lab I study vocal communication in songbirds. Vocal communication naturally connects perception and action. The sounds songbirds have to interpret while listening are the same sounds they later produce and sequence during singing. That tight coupling makes it possible to study how population-level neural dynamics support sensorimotor behavior from end to end.
+## current work
 
-This gives a natural parity between production and perception, and lets me ask the same question of both systems within one analytical framework. In both systems, anticipation shows up in how activity across a population of neurons is arranged as opposed to being visible through looking at single-neuron tuning effects alone. My thesis combines large-scale electrophysiology, dynamical systems modeling, and naturalistic behavior.
+<div class="breakout project">
+  <div class="project-fig">
+{% include fig-listening.svg -%}
+    <p class="fig-note">Each line is the dynamics of the auditory population on one trial, moving through a space where sounds from two categories separate.</p>
+  </div>
+  <div>
+    <p class="kicker">01 · listening</p>
+    <h3>Expectation organizes population dynamics</h3>
+    <p>How does knowing what is coming change the way a sensory population responds? In songbirds categorizing natural song syllables, expectation reorganized the dynamics of the auditory forebrain. Neural population responses to sounds from the same category grew more alike, the opposite of what single neurons suggest, and the early motion of population activity on each trial predicted how quickly and accurately the bird chose. Expectation works as a form of control, setting the initial conditions from which a decision unfolds.</p>
+    <p class="links"><a href="https://doi.org/10.64898/2026.06.30.735699">preprint</a></p>
+  </div>
+</div>
+
+<div class="breakout project flip">
+  <div class="project-fig">
+{% include fig-singing.svg -%}
+  </div>
+  <div>
+    <p class="kicker">02 · singing</p>
+    <h3>Two song regions work as a coupled pair</h3>
+    <p>Song control is often drawn as a relay, with one region instructing the next. Recording from both at once, I find that the two regions influence each other, coupling briefly at particular moments in the song.</p>
+    <p class="links">manuscript in preparation</p>
+  </div>
+</div>
+
+<div class="breakout project">
+  <div class="project-fig">
+{% include fig-framework.svg -%}
+  </div>
+  <div>
+    <p class="kicker">03 · framework</p>
+    <h3>The same question, asked of both</h3>
+    <p>A population can change in ways that alter what it sends downstream and in ways that do not. Separating the two shows how a brain can prepare without yet acting, in hearing and in singing alike.</p>
+    <p class="links">large-scale electrophysiology · dynamical systems modeling · naturalistic behavior</p>
+  </div>
+</div>
 
 ## where it is going
 

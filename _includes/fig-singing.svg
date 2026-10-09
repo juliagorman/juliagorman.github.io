@@ -1,0 +1,16 @@
+<svg class="fig" viewBox="0 0 380 260" role="img" aria-label="Schematic. Two song regions, HVC and RA, with arrows in both directions. Below, the strength of their coupling rises briefly at moments during a song.">
+  <defs>
+    <marker id="ah-warm2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" class="f-b"/></marker>
+    <marker id="ah-soft2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" class="f-soft"/></marker>
+  </defs>
+  <circle cx="118" cy="66" r="32" class="fig-node s-b"/><text x="118" y="71" text-anchor="middle" class="fig-strong">HVC</text>
+  <circle cx="262" cy="66" r="32" class="fig-node s-b"/><text x="262" y="71" text-anchor="middle" class="fig-strong">RA</text>
+  <path d="M150,50 C 178,34 202,34 229,49" class="fig-line s-soft" marker-end="url(#ah-soft2)"/>
+  <path d="M230,82 C 202,98 178,98 151,83" class="fig-line s-b" marker-end="url(#ah-warm2)"/>
+  <text x="40" y="150" class="fig-word t-b">coupling</text>
+  <path d="M40,188 L72,188 C 78,188 80,160 86,160 C 92,160 94,188 100,188 L168,188 C 174,188 177,152 184,152 C 191,152 194,188 200,188 L226,188 C 231,188 233,168 238,168 C 243,168 245,188 250,188 L296,188 C 302,188 304,156 310,156 C 316,156 318,188 324,188 L340,188" class="fig-line s-b"/>
+  <g class="f-rule">
+    <rect x="40" y="206" width="54" height="12" rx="6"/><rect x="102" y="206" width="30" height="12" rx="6"/><rect x="140" y="206" width="66" height="12" rx="6"/><rect x="214" y="206" width="40" height="12" rx="6"/><rect x="262" y="206" width="78" height="12" rx="6"/>
+  </g>
+  <text x="40" y="240" class="fig-label">song, syllable by syllable</text>
+</svg>
