@@ -7,13 +7,13 @@ affiliation: PhD candidate in the <a href="http://gentnerlab.ucsd.edu">Gentner L
 
 ## research
 
-The brain does not just react to the world. It anticipates it. My work asks what that anticipation looks like in the geometry of neural populations, and how it shapes behavior. I study these questions in the songbird vocal system, where the sounds the motor system produces are the same sounds the auditory system perceives. I expect to defend in December 2026.
+The brain does not just react to the world. It anticipates it. My work asks what that anticipation looks like in the geometry of neural populations, and how it shapes behavior. I study it in songbirds, where the natural parity between acoustic perception and vocal production allows me to unite the two under a common analytical framework. I expect to defend in December 2026.
 
 <a class="more" href="{{ '/research/' | relative_url }}">More on my research</a>
 
 ## outreach and teaching
 
-I have spent close to a decade helping build pathways into science. At UCSD I sit on the board of Colors of the Brain, an undergraduate mentorship program, and I teach Python workshops for new neuroscientists. I have served as an instructor at UCSD for multiple summers, including Brain, Behavior, and Evolution, which I taught with materials of my own design.
+I have spent close to a decade helping build pathways into science. At UCSD I directed Colors of the Brain, an undergraduate mentorship program, and I teach, most recently an upper-division course on brain, behavior, and evolution.
 
 <a class="more" href="{{ '/teaching/' | relative_url }}">Courses and materials</a>
 
