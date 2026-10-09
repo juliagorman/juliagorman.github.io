@@ -50,7 +50,7 @@ permalink: /teaching/
 ## colors of the brain
 
 <div class="feature">
-  <p class="feature-lede">An undergraduate mentorship program at UC San Diego that partners with the Kavli Institute for Brain and Mind on a summer research program for students from historically marginalized backgrounds.</p>
+  <p class="feature-lede">A trainee-led 501(c)(3) nonprofit at UC San Diego that mentors undergraduates and partners with the Kavli Institute for Brain and Mind on a summer research program for students from historically marginalized backgrounds.</p>
   <div class="stats">
     <div><span class="num">6</span><span class="lab">years involved</span></div>
     <div><span class="num">2</span><span class="lab">years as program director</span></div>
