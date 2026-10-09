@@ -63,16 +63,16 @@ My research experience spans a range of disciplines.
 
 <ul class="timeline">
   <li>
-    <p class="kicker">Seattle University · mathematics, then barn owls</p>
-    <p>I began in mathematics at Seattle University, working in numerical analysis and number theory, and found my way to neuroscience by turning those tools on a biological question, <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009569">how midbrain neurons in barn owls integrate sound across frequencies</a>.</p>
+    <p class="kicker">Seattle University · mathematics</p>
+    <p>I began in mathematics at Seattle University, working in numerical analysis and number theory, and found my way to neuroscience by turning those tools on a biological question: how midbrain neurons in barn owls integrate sound across frequencies.</p>
   </li>
   <li>
-    <p class="kicker">Washington University in St. Louis · NIH BP ENDURE</p>
-    <p>A summer as an NIH BP ENDURE fellow at Washington University in St. Louis gave me my first opportunity to work in an experimental neuroscience laboratory, and it instilled in me a lasting commitment to bridging computational models with experimental work through close collaboration with experimentalists.</p>
+    <p class="kicker">Washington University in St. Louis · fly olfaction</p>
+    <p>A summer as an NIH BP ENDURE fellow in Barani Raman's lab at Washington University in St. Louis gave me my first opportunity to work in an experimental neuroscience laboratory, and it instilled in me a lasting commitment to bridging computational models with experimental work through close collaboration with experimentalists.</p>
   </li>
   <li>
     <p class="kicker">UC San Diego · marmosets, then songbirds</p>
-    <p>Early in my PhD I studied active vision and vocal communication in marmosets, in the field and in the lab, before turning to songbirds.</p>
+    <p>Early in my PhD I studied active vision and vocal communication in marmosets, in the field and in the lab, before studying songbirds.</p>
   </li>
 </ul>
 
