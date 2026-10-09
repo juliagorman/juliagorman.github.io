@@ -63,16 +63,32 @@ My research experience spans a range of disciplines.
 
 <ul class="timeline">
   <li>
-    <p class="kicker">Seattle University · mathematics</p>
-    <p>I began in mathematics at Seattle University, working in numerical analysis and number theory, and found my way to neuroscience by turning those tools on a biological question: how midbrain neurons in barn owls integrate sound across frequencies.</p>
+    <div>
+      <p class="kicker">Seattle University · mathematics</p>
+      <p>I began in mathematics at Seattle University, working in numerical analysis and number theory, and found my way to neuroscience by turning those tools on a biological question: how midbrain neurons in barn owls integrate sound across frequencies.</p>
+    </div>
+    <div class="animals">
+{% include icon-owl.svg -%}
+    </div>
   </li>
   <li>
-    <p class="kicker">Washington University in St. Louis · fly olfaction</p>
-    <p>A summer as an NIH BP ENDURE fellow in Barani Raman's lab at Washington University in St. Louis gave me my first opportunity to work in an experimental neuroscience laboratory, and it instilled in me a lasting commitment to bridging computational models with experimental work through close collaboration with experimentalists.</p>
+    <div>
+      <p class="kicker">Washington University in St. Louis · fly olfaction</p>
+      <p>A summer as an NIH BP ENDURE fellow in Barani Raman's lab at Washington University in St. Louis gave me my first opportunity to work in an experimental neuroscience laboratory, and it instilled in me a lasting commitment to bridging computational models with experimental work through close collaboration with experimentalists.</p>
+    </div>
+    <div class="animals">
+{% include icon-fly.svg -%}
+    </div>
   </li>
   <li>
-    <p class="kicker">UC San Diego · marmosets, then songbirds</p>
-    <p>Early in my PhD I studied active vision and vocal communication in marmosets, in the field and in the lab, before studying songbirds.</p>
+    <div>
+      <p class="kicker">UC San Diego · marmosets, then songbirds</p>
+      <p>Early in my PhD I studied active vision and vocal communication in marmosets, in the field and in the lab, before studying songbirds.</p>
+    </div>
+    <div class="animals">
+{% include icon-marmoset.svg -%}
+{% include icon-bird.svg -%}
+    </div>
   </li>
 </ul>
 

@@ -420,6 +420,11 @@ a:hover { color: var(--accent-deep); text-decoration: underline; text-underline-
   border: 2px solid var(--accent);
 }
 .prose ul.timeline p { margin: 0; }
+.prose ul.timeline li { display: grid; grid-template-columns: minmax(0, 1fr) auto; column-gap: 22px; align-items: center; }
+.timeline .animals { display: flex; gap: 8px; }
+.animal { display: block; width: 54px; height: 54px; fill: none; stroke: var(--ink); stroke-width: 1.9; stroke-linecap: round; stroke-linejoin: round; }
+.animal .solid { fill: var(--ink); stroke: none; }
+.animal .fillbg { fill: var(--bg); }
 .prose ul.timeline .kicker { margin-bottom: 0.35em; }
 
 /* diagrams */
@@ -482,6 +487,8 @@ a:hover { color: var(--accent-deep); text-decoration: underline; text-underline-
   .footer-links a { margin-left: 0; margin-right: 18px; }
   .entry { grid-template-columns: 1fr; }
   .project { margin-bottom: 40px; }
+  .prose ul.timeline li { grid-template-columns: 1fr; row-gap: 8px; }
+  .animal { width: 44px; height: 44px; }
   .project .project-fig, .project.flip .project-fig { float: none; width: auto; margin: 0 0 16px; }
   .prose .project h3 { font-size: 23px; }
   .fig-panel-wide { padding: 6px; overflow-x: auto; }

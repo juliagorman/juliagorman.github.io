@@ -1,0 +1,8 @@
+<svg class="animal" viewBox="0 0 64 64" role="img" aria-label="Songbird">
+  <path d="M54,14 C 49,8 40,10 38,18 C 28,20 18,28 13,40 L3,49 L7,53 L19,46 C 26,54 40,54 46,44 C 50,37 50,28 54,22"/>
+  <path d="M54,14 L62,15 L55.5,18 L61,22 L54,22"/>
+  <circle cx="48.5" cy="16.5" r="1.6" class="solid"/>
+  <path d="M40,27 C 35,37 27,42 18,42"/>
+  <path d="M30,52 L29,59 M37,51 L38,59"/>
+  <path d="M17,59 L52,59"/>
+</svg>
