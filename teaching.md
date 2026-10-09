@@ -57,7 +57,7 @@ permalink: /teaching/
     <div><span class="num word">now</span><span class="lab">executive board member</span></div>
   </div>
   <p>We published our model in <em>Nature Neuroscience</em>, and I have given talks on building undergraduate research programs like it at conferences and primarily undergraduate institutions.</p>
-  <p class="links"><a href="https://colorsofthebrain.com">colorsofthebrain.com</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/39455866/">the paper</a></p>
+  <p class="links"><a href="https://colorsofthebrain.com">colorsofthebrain.com</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/39455866/">the paper</a> · <a href="https://github.com/colorsofthebrain/mentors-like-us-paper">program materials</a></p>
 </div>
 
 ## training
