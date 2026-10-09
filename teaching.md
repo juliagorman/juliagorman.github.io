@@ -1,7 +1,8 @@
 ---
 layout: page
 title: teaching
-subtitle: Education, approached thoughtfully, has the power to liberate and inspire.
+subtitle: "“To educate as the practice of freedom is a way of teaching that anyone can learn.”"
+subtitle_credit: "bell hooks, <em>Teaching to Transgress</em>"
 permalink: /teaching/
 ---
 

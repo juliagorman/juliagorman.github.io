@@ -5,6 +5,7 @@ layout: default
   <header class="page-head">
     <h1>{{ page.title }}</h1>
     {% if page.subtitle %}<p class="lede">{{ page.subtitle }}</p>{% endif %}
+    {% if page.subtitle_credit %}<p class="lede-credit">{{ page.subtitle_credit }}</p>{% endif %}
   </header>
   <div class="prose{% if page.wide %} wide{% endif %}">
     {{ content }}
