@@ -59,15 +59,9 @@ permalink: /teaching/
     <div><span class="num">2</span><span class="lab">years as program director</span></div>
     <div><span class="num word">now</span><span class="lab">executive board member</span></div>
   </div>
-  <p>We published our model in <em>Nature Neuroscience</em>. I have given talks on how to start something similar at the Cognitive Neuroscience Society and at universities including primarily undergraduate institutions like Bowdoin College.</p>
+  <p>We published our model in <em>Nature Neuroscience</em>, and I have given talks on building undergraduate research programs like it at conferences and primarily undergraduate institutions.</p>
   <p class="links"><a href="https://colorsofthebrain.com">colorsofthebrain.com</a> · <a href="https://pubmed.ncbi.nlm.nih.gov/39455866/">the paper</a></p>
 </div>
-
-## mentoring
-
-I have taught and TA'd for <a href="https://ugresearch.ucsd.edu/programs/all-urh-programs/start-neuro/index.html">STARTneuro</a>, an NIH BP ENDURE program that funds research experiences for incoming transfer students. I went through a BP ENDURE program myself, at Washington University in St. Louis.
-
-In the lab I have trained undergraduates to track singing birds with SLEAP and mentored data science projects. Students I have worked with have gone on to a PhD program at Berkeley, a postbac at Johns Hopkins, and a research assistant position in a neuroscience lab.
 
 ## training
 
@@ -78,7 +72,3 @@ In the lab I have trained undergraduates to track singing birds with SLEAP and m
 </ul>
 
 <p class="note">All through the UC San Diego Teaching and Learning Commons.</p>
-
-## before grad school
-
-At Seattle University I was a study group facilitator and a tutor in the math lab, where any student could walk in with any math question.
