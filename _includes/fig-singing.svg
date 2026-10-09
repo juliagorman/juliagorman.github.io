@@ -1,16 +1,33 @@
-<svg class="fig" viewBox="0 0 380 260" role="img" aria-label="Schematic. Two song regions, HVC and RA, with arrows in both directions. Below, the strength of their coupling rises briefly at moments during a song.">
+<svg class="fig" viewBox="0 0 380 280" role="img" aria-label="Schematic. A premotor region and a motor region, each a population of neurons, with arrows in both directions between them. Below, a trace of how strongly the two regions interact rises and falls across the syllables of a song.">
   <defs>
-    <marker id="ah-warm2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" class="f-b"/></marker>
-    <marker id="ah-soft2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" class="f-soft"/></marker>
+    <marker id="sg-b" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" class="f-b"/></marker>
+    <marker id="sg-soft" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" class="f-soft"/></marker>
+    <marker id="sg-time" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" class="f-axis"/></marker>
   </defs>
-  <circle cx="118" cy="66" r="32" class="fig-node s-b"/><text x="118" y="71" text-anchor="middle" class="fig-strong">HVC</text>
-  <circle cx="262" cy="66" r="32" class="fig-node s-b"/><text x="262" y="71" text-anchor="middle" class="fig-strong">RA</text>
-  <path d="M150,50 C 178,34 202,34 229,49" class="fig-line s-soft" marker-end="url(#ah-soft2)"/>
-  <path d="M230,82 C 202,98 178,98 151,83" class="fig-line s-b" marker-end="url(#ah-warm2)"/>
-  <text x="40" y="150" class="fig-word t-b">coupling</text>
-  <path d="M40,188 L72,188 C 78,188 80,160 86,160 C 92,160 94,188 100,188 L168,188 C 174,188 177,152 184,152 C 191,152 194,188 200,188 L226,188 C 231,188 233,168 238,168 C 243,168 245,188 250,188 L296,188 C 302,188 304,156 310,156 C 316,156 318,188 324,188 L340,188" class="fig-line s-b"/>
-  <g class="f-rule">
-    <rect x="40" y="206" width="54" height="12" rx="6"/><rect x="102" y="206" width="30" height="12" rx="6"/><rect x="140" y="206" width="66" height="12" rx="6"/><rect x="214" y="206" width="40" height="12" rx="6"/><rect x="262" y="206" width="78" height="12" rx="6"/>
+  <!-- two regions -->
+  <rect x="16" y="26" width="132" height="50" rx="25" class="fig-node s-b"/>
+  <text x="82" y="48" text-anchor="middle" class="fig-strong">premotor region</text>
+  <text x="82" y="65" text-anchor="middle" class="fig-label">neural population</text>
+  <rect x="232" y="26" width="132" height="50" rx="25" class="fig-node s-b"/>
+  <text x="298" y="48" text-anchor="middle" class="fig-strong">motor region</text>
+  <text x="298" y="65" text-anchor="middle" class="fig-label">neural population</text>
+  <path d="M154,40 C 176,28 204,28 225,39" class="fig-line s-soft" marker-end="url(#sg-soft)"/>
+  <text x="190" y="22" text-anchor="middle" class="fig-label">drives</text>
+  <path d="M226,62 C 204,74 176,74 155,63" class="fig-line s-b" marker-end="url(#sg-b)"/>
+  <text x="190" y="94" text-anchor="middle" class="fig-word t-b">feeds back</text>
+  <!-- interaction over time -->
+  <text x="16" y="128" class="fig-label">how strongly the two regions interact</text>
+  <path d="M16,184 L46,184 C 54,184 56,150 64,150 C 72,150 74,184 82,184 L150,184 C 158,184 161,142 170,142 C 179,142 182,184 190,184 L214,184 C 220,184 222,162 228,162 C 234,162 236,184 242,184 L290,184 C 298,184 300,146 308,146 C 316,146 318,184 326,184 L364,184" class="fig-line s-b"/>
+  <!-- the song, as syllables on a spectrogram -->
+  <g class="fig-syl">
+    <path d="M16,206 L66,206 M16,214 L66,214 M16,222 L60,222"/>
+    <path d="M78,204 L108,212 M78,212 L108,220 M78,220 L104,227"/>
+    <path d="M122,206 L182,206 M122,214 L182,214 M122,222 L182,222 M122,230 L170,230"/>
+    <path d="M196,224 L230,208 M196,231 L230,215"/>
+    <path d="M246,206 L326,206 M246,214 L326,214 M246,222 L312,222"/>
+    <path d="M340,210 L364,210 M340,218 L364,218"/>
   </g>
-  <text x="40" y="240" class="fig-label">song, syllable by syllable</text>
+  <line x1="16" y1="246" x2="362" y2="246" class="fig-axis" marker-end="url(#sg-time)"/>
+  <text x="16" y="266" class="fig-label">one song, syllable by syllable</text>
+  <text x="364" y="266" text-anchor="end" class="fig-label">time</text>
 </svg>
