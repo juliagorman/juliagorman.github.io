@@ -11,15 +11,16 @@ permalink: /teaching/
   <div class="when">2025</div>
   <div>
     <h3>Brain, Behavior, and Evolution</h3>
-    <p class="role">PSYC/BIPN 189 · UC San Diego · Instructor of record</p>
-    <p class="note">Taught with materials of my own design. Summer Graduate Teaching Scholars award.</p>
-    <p class="note">Engaged Teaching Scholar in Student-Centered College Teaching and Graduate Peer Review of Instruction, UC San Diego Teaching and Learning Commons.</p>
+    <p class="role">BIPN/PSYC 189 · UC San Diego · Instructor of record</p>
+    <p class="note">Taught with materials of my own design.</p>
     <blockquote class="said">
-      “Around ¾ of the class spoke during class, and no student spoke more than three times. Overall though, engagement was better than any undergraduate class I’ve attended at UCSD.”
-      <cite>Peer observation, UC San Diego Teaching and Learning Commons, 2025</cite>
+      “Engagement was better than any undergraduate class I’ve attended at UCSD.”
+      <cite>Peer observer, Graduate Peer Review of Instruction, 2025</cite>
     </blockquote>
-    <!-- SYLLABUS + EVALS: put the PDFs in assets/files/ with these names, then uncomment.
-    <p class="links"><a href="{{ '/assets/files/PSYCBIPN189_Syllabus.pdf' | relative_url }}">syllabus</a> · <a href="{{ '/assets/files/PSYCBIPN189_Evaluations.pdf' | relative_url }}">student evaluations</a></p>
+    <p class="note">Three-hour sessions. No lecture block over 12 minutes. About three quarters of the class speaking.</p>
+    <p class="links"><a href="{{ '/assets/files/BIPN_PSYC189_Evaluations_Summer2025.pdf' | relative_url }}">student evaluations</a> · 25 of 34 responded</p>
+    <!-- SYLLABUS: put PSYCBIPN189_Syllabus.pdf in assets/files/, then uncomment.
+    <p class="links"><a href="{{ '/assets/files/PSYCBIPN189_Syllabus.pdf' | relative_url }}">syllabus</a></p>
     -->
   </div>
 </div>
@@ -67,6 +68,16 @@ permalink: /teaching/
 I have taught and TA'd for <a href="https://ugresearch.ucsd.edu/programs/all-urh-programs/start-neuro/index.html">STARTneuro</a>, an NIH BP ENDURE program that funds research experiences for incoming transfer students. I went through a BP ENDURE program myself, at Washington University in St. Louis.
 
 In the lab I have trained undergraduates to track singing birds with SLEAP and mentored data science projects. Students I have worked with have gone on to a PhD program at Berkeley, a postbac at Johns Hopkins, and a research assistant position in a neuroscience lab.
+
+## training
+
+<ul class="plain">
+  <li><a href="https://sites.google.com/ucsd.edu/expertiseinteaching/home">Engaged Teaching Scholar</a><span>Highest level of Pathways to Expertise in Student-Centered College Teaching</span></li>
+  <li>Leadership in Teaching<span>Graduate Peer Review of Instruction, 2025</span></li>
+  <li><a href="https://engagedteaching.ucsd.edu/educators/grad-students/sgts.html">Summer Graduate Teaching Scholar</a><span>Award and fellowship, 2025</span></li>
+</ul>
+
+<p class="note">All through the UC San Diego Teaching and Learning Commons.</p>
 
 ## before grad school
 

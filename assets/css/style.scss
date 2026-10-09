@@ -299,6 +299,11 @@ a:hover { color: var(--accent-deep); text-decoration: underline; text-underline-
   color: var(--ink-soft);
 }
 
+.prose ul.plain { list-style: none; padding: 0; margin: 0 0 0.9em; }
+.prose ul.plain li { margin: 0 0 0.7em; }
+.prose ul.plain a { font-weight: 500; }
+.prose ul.plain span { display: block; font-size: 14.5px; color: var(--ink-soft); }
+
 /* ---------- feature panel (Colors of the Brain) ---------- */
 
 .feature {

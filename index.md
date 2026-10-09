@@ -26,6 +26,5 @@ I grew up in Bend, Oregon and did my bachelor's in mathematics and biology at Se
 ## contact
 
 <ul class="contact-list">
-  <li><span>scholar</span> <a href="{{ site.scholar_url }}">Google Scholar</a></li>
-  <li><span>bluesky</span> <a href="https://bsky.app/profile/{{ site.bluesky_username }}.bsky.social">@{{ site.bluesky_username }}</a></li>
+  <li><span>email</span> <a href="mailto:jugorman@ucsd.edu">jugorman@ucsd.edu</a></li>
 </ul>
